@@ -19,7 +19,7 @@ In this section the user will see a world map with separations at country border
 ![Map Data](https://github.com/BUEC500C1/codvid-app-sz64/blob/master/Map_Data.png)
 
 ## Installation
-There is currently a zip folder with a .exe version of the application included in this repository, but the application can also be built for other platforms, verification that other platforms work when built have not been tested. 
+There is currently a zip folder with a .exe version of the application included in this repository, but the application can also be built for other platforms, verification that other platforms work when built has not been tested, but other platforms include Android, iOS, and MAC.
 
 Secondly a video of the application being used is included as a .flv video file in the repository. 
 
